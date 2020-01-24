@@ -1,0 +1,4 @@
+UsoCPU=10
+UsoMemoria=100
+SP=5
+Tiempo=100

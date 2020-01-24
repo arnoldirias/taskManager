@@ -1,0 +1,4 @@
+UsoCPU=5
+UsoMemoria=100
+SP=2
+Tiempo=686
